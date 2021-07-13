@@ -6,6 +6,9 @@ contributor:
     alias: DeBebian, A. (Arthur)
     gutenberg_agent_id: '38728'
     url: http://www.gutenberg.org/2009/agents/38728
+covers:
+- cover_type: archival
+  image_path: 65763-h/images/cover.jpg
 creator:
   author:
     agent_name: Montgomery, Frances Trego
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '8392'
     url: http://www.gutenberg.org/2009/agents/8392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65763#Billy-Whiskers-at-the-Fair
 gutenberg_issued: '2021-07-04'
 gutenberg_type: Text
 identifiers:
